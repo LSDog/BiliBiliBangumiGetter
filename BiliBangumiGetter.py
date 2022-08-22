@@ -3,13 +3,15 @@ import sys
 import time
 
 #这里是要爬的md号，拼到后面 https://www.bilibili.com/bangumi/media/md908 访问就是 DOUBLE-J
-md_start = 2708481
+# 已扫描:
+#  0        ~ 7300000
+md_start = 7300000
 md_end = 30000000
 
 def getInfo(mediaId) -> dict:
     try:
 
-        response = requests.get(f'http://api.bilibili.com/pgc/review/user?media_id=' + str(mediaId))
+        response = requests.get(f"http://api.bilibili.com/pgc/review/user?media_id=" + str({mediaId}))
         response.raise_for_status()
         if response.status_code != 200:
             print('\a请求失败')

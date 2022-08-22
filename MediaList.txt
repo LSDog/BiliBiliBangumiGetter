@@ -695,6 +695,8 @@
 1995	百变之星				https://www.bilibili.com/bangumi/media/md1995
 1996	星空清理者				https://www.bilibili.com/bangumi/media/md1996
 2004	夏娃的时间 剧场版				https://www.bilibili.com/bangumi/media/md2004
+2006	钟之音学院				https://www.bilibili.com/bangumi/media/md2006
+2007	变身侦探				https://www.bilibili.com/bangumi/media/md2007
 2008	瓶诘妖精				https://www.bilibili.com/bangumi/media/md2008
 2012	天使怪盗				https://www.bilibili.com/bangumi/media/md2012
 2013	奇诺之旅（2017）				https://www.bilibili.com/bangumi/media/md2013
@@ -2479,3 +2481,65 @@
 2072282	音乐剧《刀剑乱舞》～三百年的摇篮曲～				https://www.bilibili.com/bangumi/media/md2072282
 2430940	RWBY 第六季				https://www.bilibili.com/bangumi/media/md2430940
 2435657	能继续奔跑下去真是太好了。				https://www.bilibili.com/bangumi/media/md2435657
+3071924	网球王子剧场版 二人的武士				https://www.bilibili.com/bangumi/media/md3071924
+3083562	网球王子剧场版 迹部的礼物				https://www.bilibili.com/bangumi/media/md3083562
+4204858	闪电十一人GO2 时空之石				https://www.bilibili.com/bangumi/media/md4204858
+4208955	森林大帝 1989				https://www.bilibili.com/bangumi/media/md4208955
+4297005	圣子到				https://www.bilibili.com/bangumi/media/md4297005
+4308742	迷宫物语				https://www.bilibili.com/bangumi/media/md4308742
+4308902	索尼克X				https://www.bilibili.com/bangumi/media/md4308902
+4308922	漂流武士 （僅限港澳台地區）				https://www.bilibili.com/bangumi/media/md4308922
+4308942	昭和元祿落語心中（僅限港澳台地區）				https://www.bilibili.com/bangumi/media/md4308942
+4308962	新网球王子				https://www.bilibili.com/bangumi/media/md4308962
+4309242	超级机器人大战原创世纪 OVA				https://www.bilibili.com/bangumi/media/md4309242
+4310042	机动战士高达 铁血的奥尔芬斯 第一季				https://www.bilibili.com/bangumi/media/md4310042
+4310082	机动战士高达 铁血的奥尔芬斯 第二季				https://www.bilibili.com/bangumi/media/md4310082
+4311302	怪医黑杰克21				https://www.bilibili.com/bangumi/media/md4311302
+4312002	超能勇士				https://www.bilibili.com/bangumi/media/md4312002
+4312222	卡姆伊之剑				https://www.bilibili.com/bangumi/media/md4312222
+4312422	怪侠佐罗利 谜之宝物大作战				https://www.bilibili.com/bangumi/media/md4312422
+4312442	灰色的乐园				https://www.bilibili.com/bangumi/media/md4312442
+4312482	多罗罗				https://www.bilibili.com/bangumi/media/md4312482
+4312782	Akubi girl				https://www.bilibili.com/bangumi/media/md4312782
+4312882	新网球王子 OVA				https://www.bilibili.com/bangumi/media/md4312882
+4312942	剑风传奇 新作（僅限台湾地區）				https://www.bilibili.com/bangumi/media/md4312942
+4313002	碧藍幻想（僅限台灣地區）				https://www.bilibili.com/bangumi/media/md4313002
+4313082	昭和元祿落語心中-助六再臨篇（僅限港澳台地區）				https://www.bilibili.com/bangumi/media/md4313082
+4313102	ALL OUT!!（僅限台湾地區）				https://www.bilibili.com/bangumi/media/md4313102
+4313162	GO!纯情水泳社!				https://www.bilibili.com/bangumi/media/md4313162
+4313362	怪侠佐罗利 第一季				https://www.bilibili.com/bangumi/media/md4313362
+4313382	怪侠佐罗利 第二季				https://www.bilibili.com/bangumi/media/md4313382
+4313402	怪侠佐罗利 第三季				https://www.bilibili.com/bangumi/media/md4313402
+4313422	SHOW BY ROCK!! （僅限台湾地區）				https://www.bilibili.com/bangumi/media/md4313422
+4313442	新天线宝宝				https://www.bilibili.com/bangumi/media/md4313442
+4313462	新天线宝宝 第二季				https://www.bilibili.com/bangumi/media/md4313462
+4314402	小马宝莉 友谊的魔力 第八季				https://www.bilibili.com/bangumi/media/md4314402
+4314422	小马宝莉 友谊的魔力 第八季（中配）				https://www.bilibili.com/bangumi/media/md4314422
+4314642	网球王子剧场版：英国式庭球城决战				https://www.bilibili.com/bangumi/media/md4314642
+4314782	向山进发 回忆的礼物				https://www.bilibili.com/bangumi/media/md4314782
+4314802	忍空				https://www.bilibili.com/bangumi/media/md4314802
+4315382	音乐剧《刀剑乱舞》～幕末天狼传～				https://www.bilibili.com/bangumi/media/md4315382
+4315702	琴之森 第二季				https://www.bilibili.com/bangumi/media/md4315702
+4315722	玛纳利亚的密友（Mysteria Friends）/巴哈姆特之怒/玛娜利亚魔法学院				https://www.bilibili.com/bangumi/media/md4315722
+4316382	五等分的新娘				https://www.bilibili.com/bangumi/media/md4316382
+4316402	revisions				https://www.bilibili.com/bangumi/media/md4316402
+4316422	KEMURIKUSA				https://www.bilibili.com/bangumi/media/md4316422
+4316442	天使降临到我身边				https://www.bilibili.com/bangumi/media/md4316442
+4316462	不吉波普不笑				https://www.bilibili.com/bangumi/media/md4316462
+4316482	盾之勇者成名录				https://www.bilibili.com/bangumi/media/md4316482
+4760998	笑容的代价				https://www.bilibili.com/bangumi/media/md4760998
+4762002	BanG Dream! 第二季				https://www.bilibili.com/bangumi/media/md4762002
+4762694	同居人是猫				https://www.bilibili.com/bangumi/media/md4762694
+4762714	笨拙之极的上野				https://www.bilibili.com/bangumi/media/md4762714
+4762734	路人超能100 II(灵能百分百 第二季)				https://www.bilibili.com/bangumi/media/md4762734
+4762754	约会大作战 第三季				https://www.bilibili.com/bangumi/media/md4762754
+5195852	齐木楠雄的灾难 完结篇				https://www.bilibili.com/bangumi/media/md5195852
+5267026	不愉快的怪物庵 续				https://www.bilibili.com/bangumi/media/md5267026
+5267730	辉夜大小姐想让我告白～天才们的恋爱头脑战～				https://www.bilibili.com/bangumi/media/md5267730
+5267750	约定的梦幻岛				https://www.bilibili.com/bangumi/media/md5267750
+5268038	环战公主 CIRCLET PRINCESS				https://www.bilibili.com/bangumi/media/md5268038
+5268246	明治东京恋伽				https://www.bilibili.com/bangumi/media/md5268246
+5269634	B-PROJECT～绝顶＊Emotion～				https://www.bilibili.com/bangumi/media/md5269634
+5345112	兽娘动物园 2				https://www.bilibili.com/bangumi/media/md5345112
+5346052	W'Z				https://www.bilibili.com/bangumi/media/md5346052
+5581418	女神异闻录5 动画版 年末特别篇「前篇 / 后篇」				https://www.bilibili.com/bangumi/media/md5581418
