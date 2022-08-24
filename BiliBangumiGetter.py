@@ -4,8 +4,8 @@ import time
 
 #这里是要爬的md号，拼到后面 https://www.bilibili.com/bangumi/media/md908 访问就是 DOUBLE-J
 # 已扫描:
-#  0        ~ 7300000
-md_start = 7300000
+#  0        ~ 10000000
+md_start = 10000000
 md_end = 30000000
 
 def getInfo(mediaId) -> dict:
